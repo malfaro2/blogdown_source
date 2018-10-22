@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marcela Alfaro Córdoba</title>
+    <link>https://malfaro2.github.io/post/</link>
+    <description>Recent content in Posts on Marcela Alfaro Córdoba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://malfaro2.github.io/post/2018-01-23-r-rmarkdown/</link>
+      <pubDate>Wed, 25 Jan 2017 21:14:41 -0500</pubDate>
+      
+      <guid>https://malfaro2.github.io/post/2018-01-23-r-rmarkdown/</guid>
+      <description>&lt;div id=&#34;blog-posts&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Blog Posts&lt;/h1&gt;
+&lt;p&gt;My first blog post will be posted soon!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

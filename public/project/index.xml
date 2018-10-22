@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Marcela Alfaro Córdoba</title>
+    <link>https://malfaro2.github.io/project/</link>
+    <description>Recent content in Projects on Marcela Alfaro Córdoba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Verification of Statistical Forecasts for Tropical Cyclones</title>
+      <link>https://malfaro2.github.io/project/verification/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/project/verification/</guid>
+      <description>&lt;p&gt;Seasonal hurricane forecasts are an important tool for hurricane preparedness and planning before the start of a hurricane season. Each year, U.S. forecasters predict the number of seasonal named storms, hurricanes, and major hurricanes that will occur in the Atlantic Basin (including the Caribbean Sea and the Gulf of Mexico), as well as in the North East Pacific.&lt;/p&gt;
+
+&lt;p&gt;Statistical hurricane forecasts are probabilistic forecasts for the number of seasonal named storms to form in a particular area, where the probability distributions are estimated from past data. The available data record of reliable sources is relatively short, which makes drawing conclusions rather difficult. To improve forecasting and develop better hurricane preparedness strategies, forecasters must assess the validity of forecasting methods and quantify their uncertainty.&lt;/p&gt;
+
+&lt;p&gt;This study proposes a verification procedure to be applied to statistical seasonal hurricane forecasts that takes into account the probabilistic nature of the forecast. The procedure is implemented in order to evaluate the impact (or the lack thereof) of using two variable selection methods, using forecasted ENSO indices, and to compare the skill of forecasts that use information up to March versus up to May in the Atlantic Basin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Regional Climate Model Emulator</title>
+      <link>https://malfaro2.github.io/project/emulator/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/project/emulator/</guid>
+      <description>&lt;p&gt;Regional Climate Models (RCM) provide high-resolution climate simulations that are important to investigate variation in regional scale projections. We introduce a Bayesian statistical framework to emulate RCM output variables using output variables from Global Circulation Models (GCM) as covariates. This emulator is an alternative to the RCM runs, which are computationally expensive.&lt;/p&gt;
+
+&lt;p&gt;The Bayesian RCM emulator has spatially varying coefficients with data-dependent priors to perform variable selection in each location. To that end, we model both the spatially varying coefficients and the response as smooth spatial processes. The method is then applied to emulate precipitation from the CRCM regional model output from the North American Regional Climate Change Assessment Program (NARCCAP) using a set of variables from the CCSM global circulation model output.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the prior weights are used to assess the usefulness of each covariate from the global model output, to emulate the regional model for each location of the NARCCAP data domain. We built the model on Summer data from 1970 to 1998 over a spatial domain covering the Western part of the continental United States and Canada and validate it with data from 1999-2000 over the same spatial domain.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

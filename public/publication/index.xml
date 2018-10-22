@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Marcela Alfaro Córdoba</title>
+    <link>https://malfaro2.github.io/publication/</link>
+    <description>Recent content in Publications on Marcela Alfaro Córdoba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>An intentional AI for hanabi</title>
+      <link>https://malfaro2.github.io/publication/hanabi/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/publication/hanabi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparison of Testing Methods in Scalar-on-Function Regression</title>
+      <link>https://malfaro2.github.io/publication/fdacomparison/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/publication/fdacomparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Use of Functional Data Analysis to Evaluate Activity in a Spontaneous Model of Degenerative Joint Disease Associated Pain in Cats</title>
+      <link>https://malfaro2.github.io/publication/fdacats/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/publication/fdacats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iodine Quantification to Distinguish Clear Cell from Papillary Renal Cell Carcinoma at Dual-Energy Multidetector CT: A Multireader Diagnostic Performance Study</title>
+      <link>https://malfaro2.github.io/publication/image2/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/publication/image2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Image Blending for Dual-Energy MDCT of the Abdomen: Can Image Quality Be Preserved If the Contrast Medium Dose Is Reduced?</title>
+      <link>https://malfaro2.github.io/publication/image1/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/publication/image1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparación metodológica de encuestas vía telefonía fija y celular en Costa Rica</title>
+      <link>https://malfaro2.github.io/publication/celulares/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://malfaro2.github.io/publication/celulares/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
